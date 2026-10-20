@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Tomato body -->
+  <circle cx="256" cy="285" r="195" fill="#F9C421" />
+  <!-- Stem / Calyx -->
+  <path d="M 256 95 C 256 50, 275 35, 310 25 C 290 55, 275 80, 266 100 Z" fill="#2E7D32" />
+  <path d="M 256 100 C 220 70, 160 80, 130 115 C 175 115, 220 120, 256 130 Z" fill="#43A047" />
+  <path d="M 256 100 C 292 70, 352 80, 382 115 C 337 115, 292 120, 256 130 Z" fill="#43A047" />
+  <path d="M 256 100 C 240 125, 245 155, 256 175 C 267 155, 272 125, 256 100 Z" fill="#388E3C" />
+  <!-- Play triangle in center -->
+  <polygon points="230,225 230,345 325,285" fill="#3A3A3A" />
+</svg>

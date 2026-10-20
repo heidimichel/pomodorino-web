@@ -1,0 +1,17 @@
+{
+  "name": "Pomodorino",
+  "short_name": "Pomodorino",
+  "description": "Focus timer for productive work and study",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3A3A3A",
+  "theme_color": "#F9C421",
+  "icons": [
+    {
+      "src": "/pomodorino.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
